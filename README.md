@@ -2,9 +2,10 @@
 
 Compute p50/p95/p99 from a stream of numbers — dependency-free.
 
-No dependencies, no service to run — just the standard library.
+TypeScript Histogram uses only the typescript standard library; there is no service or dependency to install.
 
 ```
 percentile.ts
 ```
-See the test next to the source for usage.
+
+Run the TypeScript Histogram test next to the implementation for concrete examples.
